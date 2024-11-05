@@ -1,0 +1,5 @@
+# https://artifacthub.io/packages/helm/argo/argo-cd
+# https://github.com/argoproj/argo-helm/blob/main/charts/argo-cd/values.yaml
+configs:
+  cm:
+    exec.enabled: true
